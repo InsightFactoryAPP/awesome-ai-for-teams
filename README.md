@@ -19,6 +19,8 @@ Find tools to share project knowledge, coordinate coding agents, reuse team prac
 
 Each entry explains its purpose and relevant limits. Descriptions summarize official sources; inclusion does not imply hands-on testing or production certification. Ordering is not a ranking.
 
+Notes from the list maintainer: [Hand off coding tasks with Backlog.md](https://www.goodthingure.com/articles/backlog-task-handoffs.html) · [Assign and review agent work with Multica](https://www.goodthingure.com/articles/multica-agent-handoffs.html). Both include practical examples and state what has not been tested.
+
 Star this list to keep it handy for your next tool search, or [suggest a resource or correction](CONTRIBUTING.md).
 
 ## Contents

@@ -19,6 +19,8 @@
 
 每项说明具体用途和相关限制。简介依据官方资料转述，收录不代表实测或生产认证；顺序不代表排名。
 
+清单维护者的选型笔记：[用 Backlog.md 交接编程任务](https://www.goodthingure.com/zh/articles/backlog-task-handoffs.html) · [用 Multica 委派与验收 Agent 工作](https://www.goodthingure.com/zh/articles/multica-agent-handoffs.html)。两篇均提供具体示例，并标明尚未验证的部分。
+
 可以 Star 收藏，方便下次选工具时查阅，也欢迎[推荐资源或修正条目](CONTRIBUTING.zh-CN.md)。
 
 ## 目录
