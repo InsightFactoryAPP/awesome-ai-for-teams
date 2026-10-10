@@ -265,6 +265,7 @@
 - [Activepieces](https://github.com/activepieces/activepieces) - 通过可视化流程连接 AI、业务应用和人工审批节点，复用可扩展的连接组件；企业功能另行提供。
 - [AgentScope](https://github.com/agentscope-ai/agentscope) - 用 Python 组合模型、工具与 Agent 协作组件，开发自己的助手应用。
 - [AutoGen](https://github.com/microsoft/autogen) - 通过消息、轮次和交接组织多 Agent 应用；项目处于维护模式，新项目需核对官方迁移建议。
+- [Budibase](https://github.com/Budibase/budibase) - 将团队数据、内部应用和自动化连接到 Agent，处理业务请求并调用已配置的工具，支持人工批准规则；Agents 为 Beta，付费功能另行许可。
 - [Coze Studio](https://github.com/coze-dev/coze-studio) - 通过可视化界面组合知识库、插件与工作流，构建和发布助手应用；此处指可自建的 Studio。
 - [CrewAI](https://github.com/crewAIInc/crewAI) - 用角色、任务和流程组织多个 Agent 的分工与结果交接。
 - [Dify](https://github.com/langgenius/dify) - 将知识检索、提示词和工具调用编排为 AI 应用，并发布为网页或 API。
@@ -277,6 +278,7 @@
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - 把自然语言请求接到 Salesforce 数据和配置好的业务动作，构建销售与客服 Agent。
 - [Sim](https://github.com/simstudioai/sim) - 在工作区中结合可视化流程、共享文件和知识库构建 Agent，连接业务系统并查看运行日志；聊天服务由 Sim 托管。
 - [Temporal](https://docs.temporal.io/evaluate/understanding-temporal) - 用持久化工作流连接模型调用、外部操作与长时间人工等待，管理恢复和重试；业务操作仍需防重复。
+- [ToolJet](https://github.com/ToolJet/ToolJet) - 让编码 Agent 通过 MCP 创建和修改内部应用，再由同事在可视化编辑器中继续维护；MCP 为 Beta，内置 AI 生成和 Agent Builder 属于企业版功能。
 
 ## 执行环境与托管运行
 

@@ -265,6 +265,7 @@ Connect models, tools, and multiple steps into usable applications or business w
 - [Activepieces](https://github.com/activepieces/activepieces) - Connect AI, business applications, and human approval steps in visual workflows using extensible integration components; enterprise features are offered separately.
 - [AgentScope](https://github.com/agentscope-ai/agentscope) - Compose models, tools, and agent collaboration components in Python to build custom assistant applications.
 - [AutoGen](https://github.com/microsoft/autogen) - Build message-driven agent teams with turn-taking and handoffs; in maintenance mode, with official migration guidance for new projects.
+- [Budibase](https://github.com/Budibase/budibase) - Connect team data, internal apps, and automations to agents that handle requests and invoke configured tools, with human approval rules; Agents is in beta, and paid features are licensed separately.
 - [Coze Studio](https://github.com/coze-dev/coze-studio) - Build and publish assistants with visual knowledge, plugin, and workflow tools; this entry covers the self-hostable Studio.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Organize agent collaboration through roles, tasks, and workflows with explicit handoffs.
 - [Dify](https://github.com/langgenius/dify) - Combine knowledge retrieval, prompts, and tool calls into AI applications published as web interfaces or APIs.
@@ -277,6 +278,7 @@ Connect models, tools, and multiple steps into usable applications or business w
 - [Salesforce Agentforce](https://www.salesforce.com/agentforce/) - Connect natural-language requests to Salesforce data and configured business actions for sales and service agents.
 - [Sim](https://github.com/simstudioai/sim) - Build agents with visual workflows, shared files, and knowledge bases, connect business systems, and inspect run logs; chat uses a Sim-managed service.
 - [Temporal](https://docs.temporal.io/evaluate/understanding-temporal) - Use durable workflows for model calls, external operations, and long human waits, with recovery and retries that still require idempotent business operations.
+- [ToolJet](https://github.com/ToolJet/ToolJet) - Let coding agents build and modify internal apps through MCP, then let teammates continue editing them visually; MCP is in beta, and built-in AI generation and Agent Builder are enterprise features.
 
 ## Execution Environments and Managed Runtimes
 
